@@ -15,3 +15,5 @@ jobs:
         username: faculdadegalileu04
         password: w54f84wssF
         protocol: ftps
+        log-level: verbose
+        dry-run: true
